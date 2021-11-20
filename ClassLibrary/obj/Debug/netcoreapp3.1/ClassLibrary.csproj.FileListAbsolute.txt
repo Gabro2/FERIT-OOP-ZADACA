@@ -1,0 +1,9 @@
+C:\Users\Gabrijel\source\repos\OOP-HOMEWORK\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.deps.json
+C:\Users\Gabrijel\source\repos\OOP-HOMEWORK\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\Gabrijel\source\repos\OOP-HOMEWORK\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\Gabrijel\source\repos\OOP-HOMEWORK\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Gabrijel\source\repos\OOP-HOMEWORK\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Gabrijel\source\repos\OOP-HOMEWORK\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfo.cs
+C:\Users\Gabrijel\source\repos\OOP-HOMEWORK\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Gabrijel\source\repos\OOP-HOMEWORK\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\Gabrijel\source\repos\OOP-HOMEWORK\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.pdb
